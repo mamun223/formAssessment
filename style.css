@@ -1,0 +1,29 @@
+.fullname {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin: 10px;
+}
+
+.useremail {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin: 10px;
+}
+
+.usermessage {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin: 10px;
+    
+}
+
+button {
+    margin: 10px;
+}
+
+#form-message {
+    height: 200px;
+}
